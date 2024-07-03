@@ -1,4 +1,4 @@
-# the commands for servo motor:
+# the  commands for servo motor:
 
 // C++ code
 //
