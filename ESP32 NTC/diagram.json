@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "พิทักษ์ สถิตวรรธนะ",
+
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -36.39, "left": -2.8, "attrs": {} },
