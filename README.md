@@ -82,7 +82,7 @@ void loop()
   }
   p6 = 0;
   for (p6 = 1; p6 <= 180; p6 += 1) {
-    servo_12.write(p6);
+    servo_12.write(p6); 
   }
   delay(20); // Wait for 20 millisecond(s)
   for (p6 = 180; p6 >= 1; p6 -= 1) {
